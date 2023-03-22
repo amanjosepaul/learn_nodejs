@@ -1,2 +1,2 @@
-const fName = require("./nodeConstant");
+const fName = require("./constantData");
 console.log(fName.fullName());
